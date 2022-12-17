@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+* main - This program returns the average of 3 numbers 
+*
+* return: Always 0
+*/
+
 int main()
 {
     int a, b, c, average;
